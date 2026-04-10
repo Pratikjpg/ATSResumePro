@@ -12,8 +12,10 @@ improve your resume before applying for jobs.
 ---
 
 ## 🖥️ Preview
-<img width="1911" height="1080" alt="Screenshot 2026-04-10 111033" src="https://github.com/user-attachments/assets/0a4da969-d780-4ce7-8f00-13d2bcbc33bf" />
-<img width="1911" height="1080" alt="Screenshot 2026-04-10 111013" src="https://github.com/user-attachments/assets/710dc9a7-1946-45c7-bce9-1fb0ce0d4a7c" />
+![photo_2026-04-10_13-03-10](https://github.com/user-attachments/assets/8faa8a0d-678f-4a23-b5ca-e40864ff4336)
+
+![photo_2026-04-10_13-03-32](https://github.com/user-attachments/assets/fd5d6df7-a488-4bdd-8b18-badeb556b00e)
+
 
 
 
