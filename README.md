@@ -12,11 +12,11 @@ improve your resume before applying for jobs.
 ---
 
 ## 🖥️ Preview
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/4bb841b8-64f6-407b-832f-569e8dcf75a9" />
+<img width="1911" height="1080" alt="Screenshot 2026-04-10 111033" src="https://github.com/user-attachments/assets/0a4da969-d780-4ce7-8f00-13d2bcbc33bf" />
+<img width="1911" height="1080" alt="Screenshot 2026-04-10 111013" src="https://github.com/user-attachments/assets/710dc9a7-1946-45c7-bce9-1fb0ce0d4a7c" />
 
 
 
-> Add screenshots here after uploading to GitHub
 
 ---
 
